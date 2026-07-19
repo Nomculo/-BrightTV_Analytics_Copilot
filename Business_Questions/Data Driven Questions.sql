@@ -11,5 +11,12 @@ Which province has the highest number of subscribers?
 What is the gender distribution of subscribers?
 
 ## Qustion 4
+What is the race distribution?
+
+## Question 5
+Which province has the most subscribers?
+
+## Question 6
+What is the average subscriber age?
 
 
